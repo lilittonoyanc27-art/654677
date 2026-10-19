@@ -1,0 +1,6 @@
+{
+  "name": "El último día de Pompeya — Karl Briullov",
+  "description": "Aplicación interactiva y educativa para aprender español a través de la obra maestra de Karl Briullov 'El último día de Pompeya' (1833) con traducciones al armenio, juegos didácticos y exploración de la pintura.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
